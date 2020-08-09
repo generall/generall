@@ -12,7 +12,7 @@ I also have a [blog](https://blog.vasnetsov.com) and a [telegram channel](https:
 * Matching models [ blog posts [🔗](https://blog.vasnetsov.com/posts/nn-matching/) ]
 * Knowledge extraction [ project [🔗](https://mention.vasnetsov.com/) ]
 * NN powered search engines [ blog posts [🔗](https://blog.vasnetsov.com/posts/categorical-hnsw/), [🔗](https://blog.vasnetsov.com/posts/categorical-hnsw-part-2/) ]
- & [ repo [🔗](https://github.com/generall/cat_hnswlib) ]
+ & [ repo [🔗](https://github.com/generall/cat_hnswlib/blob/master/CATEGORIES.md) ]
 * Functional programming and Rust
 
 
