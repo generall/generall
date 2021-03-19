@@ -3,6 +3,8 @@
 I'm a Machine Learning Engineer.
 I prefer practical over theoretical, working demo over arXiv paper.
 
+Currently working on a Vector Similarity Search Engine [Qdrant](https://github.com/qdrant/qdrant), which can be used for semantic search, simularity matching of text, images or even videos, and recommendations.
+
 My CV is [here](https://blog.vasnetsov.com/andrey_vasnetsov_cv.pdf).
 I also have a [blog](https://blog.vasnetsov.com) and a [telegram channel](https://t.me/neural_network_engineering)
 
